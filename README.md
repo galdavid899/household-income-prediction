@@ -22,5 +22,17 @@ https://colab.research.google.com/drive/1PJ6WtiUyjwbI-A598dfa14TmGlr7xkqB?usp=sh
 "Filipino Family Income and Expenditure" dataset (41,544 households, 60 columns),
 available on Kaggle: https://www.kaggle.com/datasets/grosvenpaul/family-income-and-expenditure
 
+The data file is not included in this repository.
+
+<img width="1848" height="1150" alt="image" src="https://github.com/user-attachments/assets/9e25a1c3-8c4d-42e0-8cea-9f74726f7461" />
+
+
+<img width="2016" height="915" alt="image" src="https://github.com/user-attachments/assets/771d7484-5650-4d07-9634-a503ca38a6b6" />
+
+
+<img width="1752" height="693" alt="image" src="https://github.com/user-attachments/assets/d4d80128-d146-49be-883d-97c74e29116f" />
+
+
+<img width="1407" height="1187" alt="image" src="https://github.com/user-attachments/assets/136b0968-8077-4a63-a470-91efd9e1e04a" />
 
 
