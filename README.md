@@ -24,15 +24,18 @@ available on Kaggle: https://www.kaggle.com/datasets/grosvenpaul/family-income-a
 
 The data file is not included in this repository.
 
+## Visualizations
+
+### Feature distributions (EDA)
 <img width="1848" height="1150" alt="image" src="https://github.com/user-attachments/assets/9e25a1c3-8c4d-42e0-8cea-9f74726f7461" />
 
-
+### Model comparison
 <img width="2016" height="915" alt="image" src="https://github.com/user-attachments/assets/771d7484-5650-4d07-9634-a503ca38a6b6" />
 
-
+### Top predictors (SHAP)
 <img width="1752" height="693" alt="image" src="https://github.com/user-attachments/assets/d4d80128-d146-49be-883d-97c74e29116f" />
 
-
+### Actual vs Predicted incomes
 <img width="1407" height="1187" alt="image" src="https://github.com/user-attachments/assets/136b0968-8077-4a63-a470-91efd9e1e04a" />
 
 
