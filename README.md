@@ -20,7 +20,7 @@ https://colab.research.google.com/drive/1PJ6WtiUyjwbI-A598dfa14TmGlr7xkqB?usp=sh
 
 ## Data
 "Filipino Family Income and Expenditure" dataset (41,544 households, 60 columns),
-available on Kaggle. The data file is not included in this repository.
+available on Kaggle: https://www.kaggle.com/datasets/grosvenpaul/family-income-and-expenditure
 
-## Authors
-Gal David, Amir Habshush
+
+
